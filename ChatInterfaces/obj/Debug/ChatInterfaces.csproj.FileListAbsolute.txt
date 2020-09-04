@@ -1,0 +1,5 @@
+C:\Users\sebas\source\repos\ChatApp_WCF\ChatInterfaces\bin\Debug\ChatInterfaces.dll
+C:\Users\sebas\source\repos\ChatApp_WCF\ChatInterfaces\bin\Debug\ChatInterfaces.pdb
+C:\Users\sebas\source\repos\ChatApp_WCF\ChatInterfaces\obj\Debug\ChatInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ChatApp_WCF\ChatInterfaces\obj\Debug\ChatInterfaces.dll
+C:\Users\sebas\source\repos\ChatApp_WCF\ChatInterfaces\obj\Debug\ChatInterfaces.pdb
